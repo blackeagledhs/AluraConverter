@@ -1,2 +1,2 @@
-# AluraConverter
-Conversor de Divisas y de Temperatura para Challenge de Alura One
+# <h1 align="center"> Conversor de Divisas Challenge Alura ONE </h1>
+<img alt="GitHub" src="https://img.shields.io/github/license/blackeagledhs/AluraConverter?style=for-the-badge"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/blackeagledhs/AluraConverter/total?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blackeagledhs/AluraConverter?style=for-the-badge">
